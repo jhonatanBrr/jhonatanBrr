@@ -18,3 +18,5 @@
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="45"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="45"/>](https://www.w3.org/TR/CSS/#css)
 
+![jhonatanBrr' GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatanBrr&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanBrr&layout=compact&theme=dark)
+
